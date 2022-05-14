@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TinyCode>
+  <Action Order="1" Operation="鼠标" Type="单击" Content="NULL" Loop="8" ErrorLoop="1" Desc="NULL" Src="\IMAGE_0.jpg" />
+  <Action Order="2" Operation="系统" Type="延迟" Content="1" Loop="1" ErrorLoop="1" Desc="NULL" Src="\IMAGE_1.jpg" />
+  <Action Order="3" Operation="键盘" Type="模拟" Content="↑A+↓S" Loop="1" ErrorLoop="1" Desc="后移" Src="\IMAGE_2.jpg" />
+  <Action Order="4" Operation="系统" Type="延迟" Content="1" Loop="2" ErrorLoop="1" Desc="NULL" Src="\IMAGE_3.jpg" />
+  <Action Order="5" Operation="键盘" Type="模拟" Content="↑S+↓D" Loop="1" ErrorLoop="1" Desc="右移" Src="\IMAGE_4.jpg" />
+  <Action Order="6" Operation="键盘" Type="模拟" Content="↓ShiftKey+↑ShiftKey" Loop="1" ErrorLoop="1" Desc="NULL" Src="\IMAGE_5.jpg" />
+  <Action Order="7" Operation="系统" Type="延迟" Content="1" Loop="1" ErrorLoop="1" Desc="NULL" Src="\IMAGE_6.jpg" />
+  <Action Order="8" Operation="鼠标" Type="单击" Content="NULL" Loop="5" ErrorLoop="1" Desc="NULL" Src="\IMAGE_7.jpg" />
+  <Action Order="9" Operation="系统" Type="延迟" Content="1" Loop="1" ErrorLoop="1" Desc="NULL" Src="\IMAGE_8.jpg" />
+  <Action Order="10" Operation="键盘" Type="模拟" Content="↑D+↓A" Loop="1" ErrorLoop="1" Desc="左移" Src="\IMAGE_9.jpg" />
+  <Action Order="11" Operation="键盘" Type="模拟" Content="↓ShiftKey+↑ShiftKey" Loop="2" ErrorLoop="1" Desc="NULL" Src="\IMAGE_10.jpg" />
+  <Action Order="12" Operation="系统" Type="延迟" Content="2" Loop="1" ErrorLoop="1" Desc="NULL" Src="\IMAGE_11.jpg" />
+  <Action Order="13" Operation="鼠标" Type="单击" Content="NULL" Loop="8" ErrorLoop="1" Desc="NULL" Src="\IMAGE_12.jpg" />
+  <Action Order="14" Operation="系统" Type="延迟" Content="1" Loop="1" ErrorLoop="1" Desc="NULL" Src="\IMAGE_13.jpg" />
+  <Action Order="15" Operation="键盘" Type="模拟" Content="↓F1+↑F1" Loop="1" ErrorLoop="1" Desc="NULL" Src="\IMAGE_14.jpg" />
+  <Action Order="16" Operation="键盘" Type="模拟" Content="↓R+↑R" Loop="2" ErrorLoop="1" Desc="NULL" Src="\IMAGE_15.jpg" />
+</TinyCode>
