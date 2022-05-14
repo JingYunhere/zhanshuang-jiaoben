@@ -4,3 +4,4 @@
 软件介绍及用法视频：https://www.bilibili.com/video/BV1ia411v7Uh?spm_id_from=333.999.0.0
 2、复制文件“深空之眼”
 3、安装完毕，找到Root文件并打开，粘贴文件“深空之眼”
+4、完成了
